@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: 'artemis',
   imageBackground: true,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
@@ -53,7 +53,7 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
+      name: 'aaaaa',
       icon: 'github',
       link: 'https://github.com/',
     },
