@@ -53,7 +53,7 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'aaaaa',
+      name: 'github',
       icon: 'github',
       link: 'https://github.com/',
     },
@@ -85,7 +85,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com',
     },
   ],
 
