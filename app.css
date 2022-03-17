@@ -30,7 +30,7 @@
   --cards: #e4e6e6; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(assets/bing_chilling.png); /* Image URL */
+  --imgbg: url(https://i.ytimg.com/vi/3oT4tcY2x4A/maxresdefault.jpg); /* Image URL */
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0.7),
     rgba(255, 255, 255, 0.7)
