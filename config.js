@@ -87,5 +87,11 @@ const CONFIG = {
       icon: 'youtube',
       link: 'https://youtube.com',
     },
+    {
+	id:'7',
+	name:'CRI',
+	icon:'briefcase',
+	link:'https://cri.epita.fr/',
+    },
   ]
 };
