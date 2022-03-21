@@ -107,5 +107,5 @@ const CONFIG = {
       icon: 'github',
       link: 'https://github.com/',
     },
-	],
+	]
 };
