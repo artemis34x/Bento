@@ -96,13 +96,13 @@ const CONFIG = {
 			link:'https://cri.epita.fr/',
     },
 		{
-      id: '1',
+      id: '2',
       name: 'github',
       icon: 'github',
       link: 'https://github.com/',
     },
 		{
-      id: '1',
+      id: '3',
       name: 'github',
       icon: 'github',
       link: 'https://github.com/',
