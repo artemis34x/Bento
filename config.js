@@ -87,11 +87,25 @@ const CONFIG = {
       icon: 'youtube',
       link: 'https://youtube.com',
     },
+		],
+		secondButtonsContainer: [
     {
-	id:'7',
-	name:'CRI',
-	icon:'briefcase',
-	link:'https://cri.epita.fr/',
+			id:'1',
+			name:'CRI',
+			icon:'briefcase',
+			link:'https://cri.epita.fr/',
     },
-  ]
+		{
+      id: '1',
+      name: 'github',
+      icon: 'github',
+      link: 'https://github.com/',
+    },
+		{
+      id: '1',
+      name: 'github',
+      icon: 'github',
+      link: 'https://github.com/',
+    },
+	],
 };
