@@ -23,7 +23,7 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Layout
-  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
   // Weather
   weatherKey: '3dd5b6883c7680b181dc4abe1fe7d3f3', // Write here your API Key
@@ -90,10 +90,10 @@ const CONFIG = {
 		],
 		secondButtonsContainer: [
     {
-			id:'1',
-			name:'CRI',
-			icon:'briefcase',
-			link:'https://cri.epita.fr/',
+		id:'1',
+		name:'CRI',
+		icon:'briefcase',
+		link:'https://cri.epita.fr/',
     },
 		{
       id: '2',
@@ -107,5 +107,5 @@ const CONFIG = {
       icon: 'github',
       link: 'https://github.com/',
     },
-	]
+	],
 };
