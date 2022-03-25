@@ -97,9 +97,9 @@ const CONFIG = {
     },
 		{
       id: '2',
-      name: 'github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'twitch',
+      icon: 'twitch',
+      link: 'https://twitch.tv/',
     },
 		{
       id: '3',
