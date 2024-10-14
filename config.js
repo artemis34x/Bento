@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: ' Artemis34x',
   imageBackground: true,
-  openInNewTab: false,
+  openInNewTab: true,
   twelveHourFormat: true,
 
   // Greetings
@@ -59,21 +59,21 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
+      name: 'gmail',
       icon: 'mail',
       link: 'https://mail.google.com/mail/u/0/#inbox',
     },
     {
       id: '3',
-      name: 'neko-sama',
-      icon: 'japanese-yen',
-      link: 'https://neko-sama.fr/',
+      name: 'Protonmail',
+      icon: 'mail',
+      link: 'https://mail.proton.me/u/1/inbox',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://outlook.office.com/calendar/view/month',
+      name: 'anitaku',
+      icon: 'japanese-yen',
+      link: 'https://anitaku.pe/home.html',
     },
     {
       id: '5',
